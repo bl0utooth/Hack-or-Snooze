@@ -1,0 +1,64 @@
+.stories-container {
+  margin-top: 20px;
+}
+
+.stories-list {
+  list-style: none;
+  padding: 0;
+}
+
+.stories-list li {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.story-link {
+  color: #333;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.story-link:hover {
+  text-decoration: underline;
+}
+
+.story-hostname {
+  color: #777;
+}
+
+.story-author {
+  color: #555;
+}
+
+.story-user {
+  color: #888;
+}
+
+.delete-button {
+  float: right;
+  color: #d9534f;
+  cursor: pointer;
+}
+
+.favoriteBtn {
+  float: right;
+  color: #5bc0de;
+  cursor: pointer;
+}
+
+.fas.fa-thumbs-up {
+  color: #5bc0de;
+}
+
+.far.fa-thumbs-up {
+  color: #ddd;
+}
+
+.far.fa-trash-alt {
+  color: #d9534f;
+}
+
+.fas.fa-trash-alt {
+  color: #d9534f;
+}
